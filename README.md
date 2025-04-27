@@ -1,5 +1,4 @@
- [h1 align="center">Hi 👋, I'm Mustafa önler</h1>
-![MasterHead](https://www.behance.net/gallery/183178475/Coding/modules/1034892977)
+[h1 align="center">Hi 👋, I'm Mustafa önler</h1>
 
 <h3 align="center">I'm software engineer</h3>
 
